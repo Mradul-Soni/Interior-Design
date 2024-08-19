@@ -1,0 +1,858 @@
+.logo-icon {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 177px;
+  height: 48px;
+  overflow: hidden;
+}
+.contact,
+.home,
+.services,
+.support {
+  position: absolute;
+  top: 17px;
+  left: 383px;
+  font-weight: 600;
+}
+.contact,
+.services,
+.support {
+  left: 509px;
+}
+.contact,
+.support {
+  left: 665px;
+}
+.support {
+  left: 809px;
+}
+.nav-child {
+  position: absolute;
+  top: 0;
+  left: 1352px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-400);
+  width: 168px;
+  height: 60px;
+}
+.sign-up {
+  position: absolute;
+  top: 17px;
+  left: 1397px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.nav,
+.top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1520px;
+  height: 60px;
+}
+.top {
+  top: 49px;
+  left: 114px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-dimgray-200);
+}
+.macbook-pro-16-1-child,
+.macbook-pro-16-1-item {
+  position: absolute;
+  top: 206px;
+  left: 1156px;
+  width: 467px;
+  height: 333px;
+  object-fit: cover;
+}
+.macbook-pro-16-1-item {
+  top: 593px;
+  left: 988px;
+  width: 562px;
+  height: 455px;
+}
+.button-sign-up-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-400);
+  width: 304px;
+  height: 87px;
+}
+.button-sign-up,
+.button-sign-up-item {
+  position: absolute;
+  top: 420px;
+  left: 0;
+  width: 304px;
+  height: 87px;
+}
+.button-sign-up-item {
+  top: 1863px;
+  left: 746px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-400);
+}
+.learn-more,
+.start-project {
+  position: absolute;
+  top: 1887px;
+  left: 832px;
+  font-weight: 600;
+  display: inline-block;
+  width: 145px;
+  height: 39px;
+}
+.start-project {
+  top: 0;
+  left: 0;
+  width: 165px;
+}
+.button-sign-up1,
+.interior-design {
+  position: absolute;
+  top: 444px;
+  left: 69px;
+  width: 1050px;
+  height: 1950px;
+}
+.interior-design {
+  top: 0;
+  left: 0;
+  font-size: 133px;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1106px;
+  height: 134px;
+}
+.step-into-a {
+  margin: 0;
+}
+.step-into-a-container {
+  position: absolute;
+  top: 193px;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  color: #4e4c4c;
+}
+.body {
+  position: absolute;
+  top: 224px;
+  left: 114px;
+  width: 1119px;
+  height: 2394px;
+  font-size: var(--font-size-7xl);
+  color: var(--color-white);
+}
+.p {
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+.project-completed1 {
+  margin: 0;
+  font-size: var(--font-size-3xl);
+}
+.project-completed,
+.satisfied-clients {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.satisfied-clients {
+  left: 277px;
+}
+.unique-styles1 {
+  margin: 0;
+  font-size: var(--font-size-3xl);
+  white-space: pre-wrap;
+}
+.bottom,
+.unique-styles {
+  position: absolute;
+  top: 0;
+  left: 543px;
+}
+.bottom {
+  top: 869px;
+  left: 114px;
+  width: 710px;
+  height: 116px;
+  text-align: center;
+  font-size: var(--font-size-51xl);
+}
+.macbook-pro-16-1-inner {
+  position: absolute;
+  top: 893px;
+  left: 1502px;
+  background-color: var(--color-gray-400);
+  width: 155px;
+  height: 155px;
+}
+.down-arrow-icon {
+  position: absolute;
+  top: 939px;
+  left: 1549px;
+  width: 62px;
+  height: 62px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 1272px;
+  left: 143px;
+  background-color: var(--color-gray-300);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 106px;
+  height: 6px;
+}
+.our-services {
+  position: absolute;
+  top: 1238px;
+  left: 266px;
+  font-size: 64px;
+  font-weight: 600;
+}
+.lamp-icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.lighting-design {
+  position: absolute;
+  top: 0;
+  left: 107px;
+  font-weight: 600;
+}
+.achieve-the-perfect-container {
+  position: absolute;
+  top: 71px;
+  left: 107px;
+  font-size: var(--font-size-3xl);
+  line-height: 165.2%;
+  font-weight: 500;
+}
+.interior-design-icon,
+.lamp-parent {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  width: 463px;
+  height: 179px;
+}
+.interior-design-icon {
+  top: 0;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.from-concept-to-container,
+.interior-design1 {
+  position: absolute;
+  top: 1px;
+  left: 107px;
+  font-weight: 600;
+}
+.from-concept-to-container {
+  top: 72px;
+  font-size: var(--font-size-3xl);
+  line-height: 165.2%;
+  font-weight: 500;
+}
+.interior-design-parent,
+.nature-icon {
+  position: absolute;
+  top: 6px;
+  left: 514px;
+  width: 460px;
+  height: 180px;
+}
+.nature-icon {
+  top: 8px;
+  left: 0;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.celebrate-the-changing-container {
+  position: absolute;
+  top: 77px;
+  left: 110px;
+  font-size: var(--font-size-3xl);
+  line-height: 165.2%;
+  font-weight: 500;
+}
+.group-parent,
+.nature-parent {
+  position: absolute;
+  top: 0;
+  left: 1026px;
+  width: 451px;
+  height: 185px;
+}
+.group-parent {
+  top: 1445px;
+  left: 114px;
+  width: 1477px;
+  height: 186px;
+  font-size: var(--font-size-11xl);
+}
+.designing-your-dream-container {
+  position: absolute;
+  top: 1871px;
+  left: 928px;
+  font-size: var(--font-size-39xl);
+  font-weight: 600;
+}
+.brilliance-for-an {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.elevate-our-spaces-container,
+.living-room-interior {
+  position: absolute;
+  top: 2074px;
+  left: 928px;
+  line-height: 165.2%;
+  font-weight: 500;
+}
+.living-room-interior {
+  top: 0;
+  left: 1px;
+  font-weight: 600;
+}
+.plus-icon {
+  position: absolute;
+  top: 8px;
+  left: 672px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.group-child {
+  position: absolute;
+  top: 61px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 700px;
+  height: 1px;
+}
+.living-room-interior-design-parent {
+  position: absolute;
+  top: 2280px;
+  left: 927px;
+  width: 700px;
+  height: 62px;
+}
+.living-room-interior-design-group,
+.rectangle-icon {
+  position: absolute;
+  top: 2394px;
+  left: 928px;
+  width: 700px;
+  height: 62px;
+}
+.rectangle-icon {
+  top: 1871px;
+  left: 114px;
+  width: 708px;
+  height: 747px;
+  object-fit: cover;
+}
+.designing-your-dream1,
+.embark-on-your {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.designing-your-dream1 {
+  top: 0;
+  font-size: var(--font-size-39xl);
+  font-weight: 600;
+  color: var(--color-gray-300);
+  width: 704px;
+}
+.embark-on-your {
+  top: 57px;
+  line-height: 165.2%;
+  font-weight: 500;
+  width: 569px;
+}
+.embark-on-your-design-adventur-parent {
+  position: absolute;
+  top: 217px;
+  left: 135px;
+  width: 569px;
+  height: 177px;
+}
+.craft {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-300);
+}
+.collaborate-closely-to-achieve-parent,
+.witness-your-vision-becoming-a-parent {
+  position: absolute;
+  top: 454px;
+  left: 135px;
+  width: 569px;
+  height: 177px;
+}
+.witness-your-vision-becoming-a-parent {
+  top: 691px;
+}
+.group-inner,
+.line-div {
+  position: absolute;
+  top: 304.5px;
+  left: 35.5px;
+  border-right: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 1px;
+  height: 103px;
+}
+.line-div {
+  top: 541.5px;
+}
+.group-child1,
+.group-child2,
+.group-icon {
+  position: absolute;
+  top: 201px;
+  left: 0;
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+}
+.group-child1,
+.group-child2 {
+  top: 438px;
+}
+.group-child2 {
+  top: 675px;
+}
+.designing-your-dream-in-three-parent,
+.mask-group-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 704px;
+  height: 868px;
+}
+.mask-group-icon {
+  top: 1px;
+  left: 824px;
+  width: 697.9px;
+  height: 851px;
+  object-fit: contain;
+}
+.process-section {
+  position: absolute;
+  top: 2840px;
+  left: 101px;
+  width: 1521.9px;
+  height: 868px;
+  color: var(--color-dimgray-100);
+}
+.what-our-customers {
+  position: absolute;
+  top: 0;
+  left: 814px;
+  font-size: var(--font-size-39xl);
+  font-weight: 600;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 704px;
+}
+.mask-group-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 711px;
+  height: 711px;
+  object-fit: contain;
+}
+.testamonial-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-300);
+  width: 600px;
+  height: 600px;
+}
+.div,
+.working-with-your {
+  position: absolute;
+  left: 56px;
+  font-weight: 500;
+}
+.div {
+  top: 43px;
+  font-size: var(--font-size-131xl);
+}
+.working-with-your {
+  top: 182px;
+  line-height: 165.2%;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 500px;
+}
+.aligarh-india,
+.mradul-soni {
+  position: absolute;
+  top: 415px;
+  left: 152px;
+  font-weight: 600;
+}
+.aligarh-india {
+  top: 458px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.testamonial-1 {
+  position: absolute;
+  top: 218px;
+  left: 257px;
+  width: 600px;
+  height: 600px;
+}
+.exceptional-service-from {
+  position: absolute;
+  top: 182px;
+  left: 56px;
+  line-height: 165.2%;
+  font-weight: 500;
+  display: inline-block;
+  width: 500px;
+}
+.testamonial-2 {
+  position: absolute;
+  top: 218px;
+  left: 914px;
+  width: 600px;
+  height: 600px;
+}
+.mask-group-icon2,
+.mask-group-icon3 {
+  position: absolute;
+  top: 630px;
+  left: 313px;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.mask-group-icon3 {
+  left: 970px;
+  object-fit: contain;
+}
+.right-arrow-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke);
+  width: 73px;
+  height: 73px;
+}
+.right-arrow-item {
+  position: absolute;
+  top: 37px;
+  left: 23px;
+  max-height: 100%;
+  width: 26px;
+}
+.left-arrow,
+.right-arrow {
+  position: absolute;
+  top: 745px;
+  left: 111px;
+  width: 73px;
+  height: 73px;
+}
+.left-arrow {
+  left: 0;
+}
+.testamonials-section {
+  position: absolute;
+  top: 3880px;
+  left: 110px;
+  width: 1518px;
+  height: 818px;
+  color: var(--color-white);
+}
+.email-field-child,
+.subscribe-button-child {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-9xs);
+}
+.email-field-child {
+  left: calc(50% - 489.5px);
+  box-shadow: 0 10px 100px rgba(0, 0, 0, 0.14);
+  background-color: var(--color-white);
+  width: 979px;
+  height: 104px;
+}
+.subscribe-button-child {
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 275px;
+  height: 84px;
+}
+.subscribe {
+  position: absolute;
+  top: 28px;
+  left: calc(50% - 58.5px);
+  font-weight: 600;
+}
+.subscribe-button {
+  position: absolute;
+  top: 10px;
+  left: 694px;
+  width: 275px;
+  height: 84px;
+}
+.enter-your-email {
+  position: absolute;
+  top: 37px;
+  left: 92px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.fi-br-envelope-icon {
+  position: absolute;
+  top: 40px;
+  left: 51px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.email-field {
+  position: absolute;
+  top: 5381px;
+  left: calc(50% - 541px);
+  width: 979px;
+  height: 104px;
+  color: var(--color-white);
+}
+.footer-child {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 864px);
+  background-color: var(--color-gray-300);
+  width: 1728px;
+  height: 642px;
+}
+.logo-2-icon {
+  position: absolute;
+  top: 183px;
+  left: 105px;
+  width: 177px;
+  height: 48px;
+  overflow: hidden;
+}
+.vivadecor-your-premier {
+  position: absolute;
+  top: 282px;
+  left: calc(50% - 759px);
+  line-height: 150.67%;
+  font-weight: 500;
+  display: inline-block;
+  width: 322px;
+}
+.infovivadecorcom,
+.interior-design2,
+.reviews {
+  position: absolute;
+  top: 282px;
+  left: calc(50% - 191px);
+  font-weight: 500;
+  display: inline-block;
+  width: 246px;
+}
+.infovivadecorcom,
+.reviews {
+  left: calc(50% + 152px);
+}
+.infovivadecorcom {
+  left: calc(50% + 468px);
+}
+.careers,
+.design-avenue-cityville,
+.lightning-design,
+.outdoor-design1,
+.pricing {
+  position: absolute;
+  top: 404px;
+  left: calc(50% - 191px);
+  font-weight: 500;
+  display: inline-block;
+  width: 246px;
+}
+.careers,
+.design-avenue-cityville,
+.outdoor-design1,
+.pricing {
+  left: calc(50% + 152px);
+}
+.careers,
+.design-avenue-cityville,
+.outdoor-design1 {
+  top: 343px;
+  left: calc(50% - 191px);
+}
+.careers,
+.design-avenue-cityville {
+  left: calc(50% + 152px);
+}
+.design-avenue-cityville {
+  left: calc(50% + 468px);
+  line-height: 127.07%;
+  width: 257px;
+}
+.office-design,
+.press-inquires {
+  position: absolute;
+  top: 465px;
+  left: calc(50% - 191px);
+  font-weight: 500;
+  display: inline-block;
+  width: 246px;
+}
+.press-inquires {
+  left: calc(50% + 152px);
+}
+.our-services1,
+.our-services2,
+.our-services3 {
+  position: absolute;
+  top: 208px;
+  left: 673px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-white);
+}
+.our-services2,
+.our-services3 {
+  left: 1016px;
+}
+.our-services3 {
+  left: 1332px;
+}
+.facebook-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-darkslategray);
+  width: 36px;
+  height: 36px;
+}
+.facebook-icon {
+  position: absolute;
+  top: 8px;
+  left: 13px;
+  width: 11px;
+  height: 20px;
+}
+.facebook,
+.twitter-icon {
+  position: absolute;
+  top: 451px;
+  left: 105px;
+  width: 36px;
+  height: 36px;
+}
+.twitter-icon {
+  top: 9px;
+  left: 7px;
+  width: 22.1px;
+  height: 18px;
+}
+.instagram-icon,
+.linkdin-icon,
+.x {
+  position: absolute;
+  top: 451px;
+  left: 167px;
+  width: 36px;
+  height: 36px;
+}
+.instagram-icon,
+.linkdin-icon {
+  left: 229px;
+}
+.linkdin-icon {
+  left: 291px;
+  object-fit: contain;
+}
+.footer {
+  position: absolute;
+  top: 5378px;
+  left: 0;
+  width: 1728px;
+  height: 642px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-lightgray);
+}
+.be-the-first,
+.subscribe-to-our {
+  position: absolute;
+  display: inline-block;
+}
+.subscribe-to-our {
+  top: 0;
+  left: calc(50% - 424.5px);
+  font-size: var(--font-size-39xl);
+  font-weight: 600;
+  width: 849px;
+}
+.be-the-first {
+  top: 191px;
+  left: calc(50% - 384.5px);
+  line-height: 165.2%;
+  font-weight: 500;
+  color: var(--color-dimgray-100);
+  width: 770px;
+}
+.email-field1,
+.newsletter {
+  position: absolute;
+  width: 979px;
+}
+.email-field1 {
+  top: 386px;
+  left: calc(50% - 489.5px);
+  height: 104px;
+  text-align: left;
+  color: var(--color-white);
+}
+.newsletter {
+  top: 4949px;
+  left: 393px;
+  height: 490px;
+  text-align: center;
+  color: var(--color-gray-300);
+}
+.macbook-pro-16-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 6020px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
